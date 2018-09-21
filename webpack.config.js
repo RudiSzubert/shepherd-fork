@@ -184,7 +184,7 @@ module.exports.push({
       root: 'Popper',
       commonjs2: 'popper.js',
       commonjs: 'popper.js',
-      amd: 'popper.js'
+      amd: 'Popper'
     }
   },
   optimization: {
